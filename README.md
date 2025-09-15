@@ -32,7 +32,7 @@ Features and types of systems?
 3. Users/Stakeholders
 4. Features, Needs & Goals
 5. MVP
-6. Feedback, Communiation, Learning
+6. Feedback, Communication, Learning
 
 ## Project Areas & Problem-Examples 
 ### v16

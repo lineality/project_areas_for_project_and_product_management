@@ -26,9 +26,16 @@ How do you do needs and goals evaluations?
 
 Features and types of systems?
 
+## general project areas
+1. Process
+2. Schedule
+3. Users/Stakeholders
+4. Features, Needs & Goals
+5. MVP
+6. Feedback, Communiation, Learning
 
-#### Project Areas & Problem-Examples 
-#### v16
+## Project Areas & Problem-Examples 
+### v16
 1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 - process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
 - not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood. 

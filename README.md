@@ -20,11 +20,10 @@ Q: "Are the answers vague or clear?"
 Q: "Are the answers indeterminate?"
 
 
-
-How do you do needs and goals evaluations?
-
-
-Features and types of systems?
+# Questions:
+1. What project areas do you focus on?
+2. How do you do needs and goals evaluations?
+3. How are Features designed baring in mind types of systems?
 
 ## general project areas
 1. Process

@@ -22,8 +22,7 @@ to your tool kit. Others often hold the keys to our locked doors.
 
 # Questions:
 1. What project areas do you focus on?
-2. How do you do needs and goals evaluations?
- - See: https://github.com/lineality/needs_goals_assessment_disambiguation
+2. How do you do needs and goals evaluations? (See: https://github.com/lineality/needs_goals_assessment_disambiguation)
 3. How are Features designed baring in mind types of systems?
 
 ## general project areas

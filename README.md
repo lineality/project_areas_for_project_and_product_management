@@ -26,12 +26,13 @@ Q: "Are the answers indeterminate?"
 3. How are Features designed baring in mind types of systems?
 
 ## general project areas
-1. Process
-2. Schedule
-3. Users/Stakeholders
-4. Features, Needs & Goals
-5. MVP
-6. Feedback, Communication, Learning
+1. Process (e.g. Workflow Type, policies procedures)
+2. Schedules (e.g. starting, stoping)
+3. Users/Stakeholders (e.g. Who are they?)
+4. Features, Needs & Goals (e.g. What are they?)
+5. MVP (e.g. What is the first Minimum Viable Product to build?)
+6. Feedback, Communication, Learning (e.g. using stakeholder feedback and identifying and acquiring needed skills)
+
 
 ## Project Areas & Problem-Examples 
 ### v16

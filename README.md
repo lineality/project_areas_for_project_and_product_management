@@ -26,7 +26,7 @@ Q: "Are the answers indeterminate?"
 3. How are Features designed baring in mind types of systems?
 
 ## general project areas
-1. Process (e.g. Workflow Type, policies procedures)
+1. Process (e.g. workflow type, policies, procedures)
 2. Schedules (e.g. starting, stoping)
 3. Users/Stakeholders (e.g. Who are they?)
 4. Features, Needs & Goals (e.g. What are they?)

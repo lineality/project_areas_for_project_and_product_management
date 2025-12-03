@@ -45,20 +45,20 @@ to your tool kit. Others often hold the keys to our locked doors.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
 - undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
--- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
--- not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
+- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
+- not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs); lexicon: jargon vs. description; 
--- if you do not have a clear articulation of what you are doing (for a user/stakeholder to meet their clarified need) then it is unlikely that the possibly unknown goal will be accomplished in a maintainable way meeting the need of the user/stakeholder.
+- if you do not have a clear articulation of what you are doing (for a user/stakeholder to meet their clarified need) then it is unlikely that the possibly unknown goal will be accomplished in a maintainable way meeting the need of the user/stakeholder.
 5. MVP: 'MVP's (Minimum Viable Products); Deliverables Checklist; Tools, 'Tool Stack / Tech Stack', 
--- an MVP must not be an invocation of a reification-hallucination 
--- iteratively proceeding with transparency and feedback to align and fine-tune is appropriate and time-tested in many projects.
--- articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably. 
--- articulating incremental MVP (minimum-viable-product) goals and stepping stones is a skill in and of itself
+- an MVP must not be an invocation of a reification-hallucination 
+- iteratively proceeding with transparency and feedback to align and fine-tune is appropriate and time-tested in many projects.
+- articulating incremental MVP (minimum-viable-product) goals and stepping stones is an important part of progressing and communicating incrementally and/or progressing maintainably and sustainably. 
+- articulating incremental MVP (minimum-viable-product) goals and stepping stones is a skill in and of itself
 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile); Documenting-teaching-learning(skills); skills present, future (learning)
--- whether formal or informal there must be effective ways of communicating what has been done within the project-team and between the project-team and the user/stakeholder.
--- Failing to clearly map and communicate the differences between jargon terms and goal descriptions will result in mis-alignment between people and nonsense in planning.
--- long term maintainability involves communication (including 'future you')
--- learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
+- whether formal or informal there must be effective ways of communicating what has been done within the project-team and between the project-team and the user/stakeholder.
+- Failing to clearly map and communicate the differences between jargon terms and goal descriptions will result in mis-alignment between people and nonsense in planning.
+- long term maintainability involves communication (including 'future you')
+- learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 
 #### Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 

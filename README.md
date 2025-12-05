@@ -2,11 +2,13 @@
 
 "What project areas do you focus on?"
 
-This is more of a brainstorming question that may be useful 
-to conversationally start the topic, but it is very important
-to not make this a 'telepathy' question where pathologically
-expect them to know what you mean by 'project areas'
-prior being provided with detailed documentation from you.
+If you ask someone this question, consider it to be
+more of a brainstorming question that may be useful 
+to conversationally and broadly introduce the topic of projects, 
+but it is very important to not make this either a 'telepathy' question 
+where we expect them to know what we mean by 'project areas'
+prior being provided with detailed documentation, or to expect 
+or require any structured answer to such a vague question.
 This, and questions like this, are generally open ended questions
 to try to get a casual sense of what they might be most
 interested in and focused on. There is always a chance that

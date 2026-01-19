@@ -63,3 +63,8 @@ to your tool kit. Others often hold the keys to our locked doors.
 
 #### Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 
+#### Also see:
+- https://github.com/lineality/definition_behavior_studies
+- https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads
+- https://github.com/lineality/uma_productivity_collaboration_tool
+- https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.txt

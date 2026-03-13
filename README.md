@@ -29,7 +29,7 @@ to your tool kit. Others often hold the keys to our locked doors.
 
 ## general project areas
 1. Process (e.g. workflow type, policies, procedures)
-2. Schedules (e.g. starting, stoping)
+2. Schedules (e.g. starting, stopping)
 3. Users/Stakeholders (e.g. Who are they?)
 4. Features, Needs & Goals (e.g. What are they?)
 5. MVP (e.g. What is the first Minimum Viable Product to build?)

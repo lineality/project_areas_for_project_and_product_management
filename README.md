@@ -47,19 +47,19 @@ to your tool kit. Others often hold the keys to our locked doors.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
 - undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
 - laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
-- putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline
-- not scheduling planning time
-- not using planning time 
-- miscalculating durations
-- ignoring scheduled timelines
-- refusing to communicate about schedules
-- trying to force others to stop asking and talking about schedules
-- replacing schedules
-- having indeterminate schedule plans
-- having simultaneous paradoxical schedules plans
-- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
-- suddenly changing a schedule (or trying to), often at the last minute
-- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely). 
+-- putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline
+-- not scheduling planning time
+-- not using planning time 
+-- miscalculating durations
+-- ignoring scheduled timelines
+-- refusing to communicate about schedules
+-- trying to force others to stop asking and talking about schedules
+-- replacing schedules
+-- having indeterminate schedule plans
+-- having simultaneous paradoxical schedules plans
+-- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
+-- suddenly changing a schedule (or trying to), often at the last minute
+-- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)). 
 
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 -- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.

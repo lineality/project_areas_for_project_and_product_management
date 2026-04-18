@@ -40,23 +40,26 @@ Defining Agile-Type Areas of Projects as a set of predictable recurring problems
 
 #### Project Areas & Problem-Examples 
 #### v17
-1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+1. Process: Workflow Type, STEM Integration & Data-Definitions, Values, Agenda, Methods, Policies (including for predictable issues problems and collapse elements: scope-churn, panic-halting, planning-blackout), Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies), for macro: Mapping/Modeling, Strategizing, Navigating, Decision-making, forming conclusions, planning, initiative-taking, leadership, etc.
 - process/policy areas may be seen as preventable-predictable-collapse-areas; each is an area of preventable mistakes that are not automatically self-preventing and that must be deliberately prevented. Problems that are not automatically visible or understandable can repeat indefinitely. Using process and policy can significantly help prevent and navigate recurring problems that are not automatically visible.
-- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood.
+- not accounting for different workflows (e.g. frontend, backend, data-science, production machine-learning, R&D, test-reporting, etc.) will lead to delays and failures that should not have occurred. In the absence of communication and learning, these failures may be invisible and repeat indefinately because they are not seen and understood. 
 
 2. Schedule: (Duration; Start date; Iteration Interval)
 - timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
-- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
+-- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
 - laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
--- putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline
+-- sequence errors: putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline; putting end-steps first
 -- not scheduling planning time
--- not using planning time 
+-- not using planning time
+-- not scheduling feedback and use of feedback
+-- not using feedback time feedback
+-- brittle-schedule: not accounting for predictable delays
+-- best-case-scheduling: between a best-case, expected-case, and worst-cast schedule, only considering the best-case
 -- miscalculating durations
 -- ignoring scheduled timelines
 -- refusing to communicate about schedules
 -- trying to force others to stop asking and talking about schedules
--- replacing schedules
 -- having indeterminate schedule plans
 -- having simultaneous paradoxical schedules plans
 -- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
@@ -66,12 +69,14 @@ Defining Agile-Type Areas of Projects as a set of predictable recurring problems
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 -- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.
 -- not properly doing a needs and goals evaluation significantly raises the risk of goals being either incorrectly identified, or having goals indefinitely changing or rotating between amorphous unexamined but often entirely predictable areas.
+
 4. Features_Goals: User-Features & Subfeatures/Under-The-Hood Features including design factors such as Categories of Types of Systems, Data-Types, Data-Structures, Structured Vs. Unstructured Data.(E.g. tech-stack and resources may be implicit for higher-level goals or explicit for resource-defined needs); lexicon: clarify jargon vs. description; 
 - From a user-story standpoint, what is this project making? 
 - From an Under-the-hood standpoint, what needs to be made and how for the project to be maintainable?
 - Are these known? Do these need to be researched?
 -- If you do not have a clear articulation of what you are doing (for a user/stakeholder to meet their clarified need) then it is unlikely that the possibly unknown goal will be accomplished in a maintainable way meeting the need of the user/stakeholder.
 -- If you do not distinguish between and elucidate both user-story level features and sub-user-story level features (features/subfeatures) then quality, efficiency, and maintainability will be undermined.
+
 5. MVP: 'MVP's (Minimum Viable Products); Deliverables Checklist;
 Tools, 'Tool Stack / Tech Stack',
 - Each MVP must not be an invocation of a reification-hallucination. 
@@ -80,7 +85,8 @@ Tools, 'Tool Stack / Tech Stack',
 - Articulating incremental MVP (minimum-viable-product) goals and stepping stones is a skill in and of itself.
 -- Without timely iterative MVP deliverables, feedback from the user about features and usability will be significantly hindered.
 -- Without data and feedback about initial MVP outcomes, blindness will strangle the management of the project, coordination of people, and the management of resources.
-6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~Agile); Documenting-teaching-learning(skills); present skills, future skills (learning)
+
+6. Feedback_Learning: Learning, Tests, Communication, Signals, Error-Data (how are errors, mistakes, et al handled and used), Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~Agile); Documenting-teaching-learning(skills); present skills, future skills (learning)
 - Based on what signals will you define failure and orient to measure productivity?
 - Whether formal or informal there must be effective ways of communicating what has been done within the project-team and between the project-team and the user/stakeholder.
 - Long term maintainability involves communication (including with 'future you').
@@ -88,7 +94,8 @@ Tools, 'Tool Stack / Tech Stack',
 -- The default patterns and processes of drift will misalign the team and user-stakeholders on many levels, making even detection of the misalignment a challenge.
 -- Learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 
-#### Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
+### Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
+
 
 
 

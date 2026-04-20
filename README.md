@@ -103,7 +103,7 @@ Tools, 'Tool Stack / Tech Stack',
 
 
 
-#### Also see:
+#### For details beyond this summary, see:
 - https://github.com/lineality/definition_behavior_studies
 - https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads
 - https://github.com/lineality/uma_productivity_collaboration_tool

@@ -98,14 +98,20 @@ Tools, 'Tool Stack / Tech Stack',
 -- The default patterns and processes of drift will misalign the team and user-stakeholders on many levels, making even detection of the misalignment a challenge.
 -- Learning directly and indirectly related to the specific project is necessary. If you do not learn that a user/stakeholder's need is not being met then long term failure is highly probable. If you continually learn and develop useful skills then long term successes are more probable.
 
+
 ### Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
 
 
-
-
-#### For details beyond this summary, see:
+### For details beyond this summary, see:
 - https://github.com/lineality/definition_behavior_studies
 - https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads
 - https://github.com/lineality/needs_goals_assessment_disambiguation
 - https://github.com/lineality/uma_productivity_collaboration_tool
 - https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.txt
+
+#### Appendix: Parts of project/product management that are often overlooked:
+1. Policy: Disable Auto-Pilot
+2. Needs & Goals Evaluation & Disambiguation
+3. Not Skipping Planning, Orientation & Navigation
+4. Incremental Movement with Review
+5. Preliminary-Start, 'Feature' scope evaluation, & a process to halt excessive scope/load (As John McCarthy noted in the 1950's about software targets 'easy things are hard.' It is often not possible to tell the work-scope/work-load of a feature unit preliminary work has been done. So, evaluation of the scope of a feature requires review of preliminary work.)

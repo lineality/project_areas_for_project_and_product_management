@@ -52,7 +52,7 @@ Schedule-issues may be the most demonstrably relatable for any participants (if 
 - timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
 -- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
-- laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
+- standard, common, errors: laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
 -- sequence errors: putting first steps such as planning, brainstorming and early-drafts at or towards the end of the timeline, and putting end-steps first
 -- not scheduling planning time
 -- not using planning time

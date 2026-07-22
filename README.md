@@ -53,22 +53,24 @@ Schedule-issues may be the most demonstrably relatable for any participants (if 
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
 -- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
 - laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
--- sequence errors: putting first steps such as planning, brainstorming and early drafts at or towards the end of the timeline; putting end-steps first
+-- sequence errors: putting first steps such as planning, brainstorming and early-drafts at or towards the end of the timeline, and putting end-steps first
 -- not scheduling planning time
 -- not using planning time
--- not scheduling feedback and use of feedback
--- not using feedback time feedback
+-- not scheduling feedback and the use of feedback
+-- not using feedback-time or feedback
 -- brittle-schedule: not accounting for predictable delays
 -- best-case-scheduling: between a best-case, expected-case, and worst-cast schedule, only considering the best-case
 -- miscalculating durations
 -- ignoring scheduled timelines
 -- refusing to communicate about schedules
--- trying to force others to stop asking and talking about schedules
+-- trying to force planners and team-members to stop asking and talking about schedules
 -- having indeterminate schedule plans
 -- having simultaneous paradoxical schedules plans
 -- using nihilistic disinformation to discredit the value, function, and meaning of a schedule
--- suddenly changing a schedule (or trying to), often at the last minute
--- not having in scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)). 
+-- suddenly changing a schedule (or trying to), often at the last minute (such as the moment before everyone leaves a meeting)
+-- not having in-scope the possibility that the above violations of basic logic and common sense are possible and likely (in reality they are common (both possible and likely)). 
+-- Classic inversion of planning & execution priories: A 'hurry up and wait' pattern where first you impatiently blitz to start a project without planning and then the policy flips 180 degrees so that no deadlines exist and people work indefinately on whatever whim of the moment.
+
 
 3. Users: Stakeholders & Needs & Goals Evaluation (of users)
 -- not having and coordinating with users/stakeholders and their needs significantly raises the probability that the project will not improbably spontaneously meet their unknown and possibly unarticulated needs by accident.

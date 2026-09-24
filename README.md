@@ -51,7 +51,8 @@ Schedule-issues may be the most demonstrably relatable for any participants (if 
 2. Schedule: (Duration; Start date; Iteration Interval)
 - timelines that need to be short but are never articulated or planned for are unlikely to usually spontaneously match the needed short scale planning needs.
 - timelines that need to be long but are never articulated or planned for are unlikely to usually spontaneously match the needed long scale planning needs.
--- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
+- undiscussed timelines risk being indeterminate, fickle, and unpredictably changing for no apparent reason, raising the liability of churn and repeatedly returning to square one.
+- There are perception-skill elements to the problem-spaces of team-project-schedules including areas that may be similar to the general development of object permanence awareness. Both positive and negative long term items (such as long term goals and repeating long term error-loops) are highly challenging and elusive for most people and most methods of teaching. Both long term phenomena and their lexicon-taxonomy are critically important learning targets, including the often overlooked initial steps of simply being able to identify that they exist.  
 - standard, common, errors: laxity about and absence of schedule fitness will increase the likelihood of standard, common, entirely predictable basic schedule problems, including:
 -- sequence errors: putting first steps such as planning, brainstorming and early-drafts at or towards the end of the timeline, and putting end-steps first
 -- not scheduling planning time
